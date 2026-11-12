@@ -2,6 +2,8 @@
 
 **Hi!, im tinygoat, and this is my GitHub page!**
 
+![my-logo](./assets/tinylogo2-protecc.png)
+
 I focus in well, whatever.
 #
 **I am a:**
