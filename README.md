@@ -2,7 +2,7 @@
 
 <p align="center">Hi, im tinygoat, and this is my GitHub page!</p>
 
-![my-logo](./assets/tinylogo2-protecc.png)
+![logo-main](./assets/tinylogo2-protecc.png)
 
 <h2 align="center">I focus in well, whatever.</h2>
 
@@ -33,4 +33,9 @@
 
 <p align="center"><i><b>I dont know what else to add here at the moment, so go check my stuff out for yourself!</p>
 
-#
+<hr>
+<p align="left">Once again, this is:<p>
+
+![logo-simple](./assets/tinylogo.png)
+<p align="right">And have a great day!<p>
+<hr>
